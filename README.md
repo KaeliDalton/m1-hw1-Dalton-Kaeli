@@ -1,5 +1,5 @@
 # My First Coding Assignment
-![Sheltie Reading a Book](https://giphy.com/gifs/tamu-dog-page-3LrK7Q7UhF5MnhZ5ja "Sheltie reading a book")
+![Kitten Reading a Book](https://st2.depositphotos.com/1177973/7798/i/950/depositphotos_77986978-stock-photo-cute-gray-kitten.jpg "Kitten reading a book")
 ## About Me ##
 I am a combined degree student.
 I love to read and I review books in my spare time.
